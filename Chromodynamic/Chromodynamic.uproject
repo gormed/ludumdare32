@@ -4,11 +4,6 @@
 	"Category": "",
 	"Description": "",
 	"Modules": [
-		{
-			"Name": "Chromodynamic",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
 	],
 	"Plugins": [
 		{
