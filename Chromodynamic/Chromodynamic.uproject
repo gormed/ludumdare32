@@ -3,11 +3,17 @@
 	"EngineAssociation": "4.7",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-	],
 	"Plugins": [
 		{
 			"Name": "Paper2D",
+			"Enabled": true
+		},
+		{
+			"Name": "WindowsDeviceProfileSelector",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintStats",
 			"Enabled": true
 		}
 	]
