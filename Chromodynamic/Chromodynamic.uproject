@@ -9,10 +9,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WindowsDeviceProfileSelector",
-			"Enabled": true
-		},
-		{
 			"Name": "BlueprintStats",
 			"Enabled": true
 		}
