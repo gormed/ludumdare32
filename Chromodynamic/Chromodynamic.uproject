@@ -1,15 +1,11 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.7",
+	"EngineAssociation": "4.8",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "Paper2D",
-			"Enabled": true
-		},
-		{
-			"Name": "WindowsDeviceProfileSelector",
 			"Enabled": true
 		},
 		{
